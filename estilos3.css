@@ -1,17 +1,17 @@
 
 #container{
-	width: 900px;
+	width: 1000px;
+	height: 326px;
 	background-color: #E5FFFA;
 	margin: 0px auto; 
 	/*margenes centrar elemento al centro*/
-	border: 2px solid #878AAD;
-
+	border: 2px solid black;
 }
 
 table{
 	margin: 20px auto;
 
-	width: 860px;
+	width: 960px;
 	border-spacing: 5px;
 	font-family: sans-serif;
 }
